@@ -57,3 +57,13 @@ java-fundamentals-projects
 ├── library-management-system
 ├── maze-solver
 └── other-java-practice
+
+
+Each project folder contains its own Java files and may include a small description of the project.
+
+---
+
+## Author
+
+Ramzi Al Tarazi
+
