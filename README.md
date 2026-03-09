@@ -49,3 +49,11 @@ The purpose of this repository is to:
 ---
 
 ## Structure
+
+java-fundamentals-projects
+│
+├── coffee-inventory-system
+├── student-management-system
+├── library-management-system
+├── maze-solver
+└── other-java-practice
